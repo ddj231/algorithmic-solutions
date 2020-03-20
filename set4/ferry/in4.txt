@@ -1,0 +1,5 @@
+2 10 4
+0 left
+36 right
+47 right
+88 left
